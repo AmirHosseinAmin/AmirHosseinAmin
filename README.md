@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="120" width="120" src="https://media.tenor.com/Mj_QS4-7kEMAAAAC/phantoma-profile-pic.gif"  />
+<img align="right" height="200" width="200" src="https://media.tenor.com/Mj_QS4-7kEMAAAAC/phantoma-profile-pic.gif"  />
 
 ###
 
