@@ -51,7 +51,7 @@
 
 <br clear="both">
 
- ![Snake animation](https://github.com/eagrundy/AmirHosseinAmin/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/AmirHosseinAmin/AmirHosseinAmin/blob/output/github-contribution-grid-snake.svg)
  
 
 
